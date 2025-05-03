@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Baset Behzad
 
-🎯 **Backend Developer | Python & Django Enthusiast**
+🎯 **a passionate and detail-oriented Backend Developer specializing in Django and Django REST Framework. I love building robust, scalable APIs and clean backend systems that solve real-world problems. With a strong focus on writing maintainable code, I thrive in collaborative environments where clean architecture, testing, and performance matter. I’m constantly improving my skills, exploring best practices, and contributing to meaningful projects. I value reliability, communication, and a growth mindset — qualities that make me a dependable teammate and a developer employers can trust.**
 
 ---
 
